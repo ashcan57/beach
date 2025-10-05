@@ -1,0 +1,12 @@
+<addon id="plugin.program.dab19"
+       name="DAB19 Program"
+       version="1.0"
+       provider-name="ashcan57">
+    <extension point="xbmc.python.pluginsource"
+               library="default.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary>DAB19 Plugin</summary>
+        <description>Custom functions for DAB19 build.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
