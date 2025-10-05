@@ -1,0 +1,16 @@
+<addon id="repository.prism"
+       name="Prism Repository"
+       version="1.0"
+       provider-name="ashcan57">
+    <extension point="xbmc.addon.repository"
+               name="Prism Repo">
+        <info compressed="false">https://raw.githubusercontent.com/ashcan57/beach/main/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/ashcan57/beach/main/addons.xml.md5</checksum>
+        <datadir>https://raw.githubusercontent.com/ashcan57/beach/main/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Prism Repository</summary>
+        <description>Install dab19 builds and plugins.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
