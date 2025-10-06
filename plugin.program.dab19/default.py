@@ -2,7 +2,7 @@ import xbmcgui
 import xbmc
 import urllib.request
 
-BUILD_URL = "https://raw.githubusercontent.com/ashcan57/beach/main/builds/dab19.zip"
+BUILD_URL = "https://www.dropbox.com/scl/fo/ko8c3abxbtyukuovirrxv/ANA9nB2VxHjZQxMeJKigkio?rlkey=kg14lw8x139u6co9pj515msqp&st=jua9t5o4&dl=1"
 
 def main():
     dialog = xbmcgui.Dialog()
